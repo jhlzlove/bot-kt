@@ -1,10 +1,11 @@
+active = false
 [qq]
-appId = "102012144"
-appSecret = "yrWs0xpdCAzf8RVU"
-appToken = "CwrVvliKCv4ZRnW6GRF4qTJjvoJid6h8"
+appId = "BotId"
+appSecret = "BotSecret"
+appToken = "BotToken"
 
 [miyoushe]
-creator = "273517807"
-botId = "bot_TyvFRs4rSx1X0UDdHvqg"
-pubKey = """-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtP0lWL6Av95L+slGW1DL28bjwtZsiDIPQOe93B6oEIMsh9IJX7mttnEyhpuam9Fg6RMSlUZZURV6VO7RlnSzwSN/TzT0wChX8hQDcrnLoCs9UXSm2bX3ntiZBw5pIif2jX/dHitg0FSGTv1Z6ktUvyzrP0kG/xL0f3HnVLffikQIDAQAB\n-----END PUBLIC KEY-----\n"""
-secret = "Xn96FWekMHGWHGrYf3ZUDu1Mo1vLIXlW75RCQYD6m2Guq"
+creator = "creatorId"
+botId = "BotId"
+pubKey = """-----BEGIN PUBLIC KEY-----\nYour PubKey\n-----END PUBLIC KEY-----\n"""
+secret = "Secret"
